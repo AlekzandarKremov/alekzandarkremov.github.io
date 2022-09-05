@@ -1,0 +1,23 @@
+.bg {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuy-8NSLFwy96gv1dw--LVZ5LxJmv2DEk5w&usqp=CAU");
+
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+  background-color: #D57A29;
+}
+
+h1 {
+  background-color: #3DE428;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+
