@@ -1,0 +1,13 @@
+img {
+  border-radius: 50%;
+}
+
+.boxed {
+  border: 5px solid green ;
+  width: 900px;
+  background-color: lightblue;
+}
+keski {
+  text-align: center;
+
+}
