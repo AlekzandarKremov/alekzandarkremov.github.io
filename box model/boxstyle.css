@@ -22,3 +22,16 @@ border-top-color: red;
 .h2 {
 	background-color: green;
 }
+.box3{
+	background-color: #007FFF;
+	box-sizing: border-box;
+	padding: 50px;
+	margin: 100px;
+}
+.h22{
+	font-size:60px;
+	margin:0;
+	color:white;
+	background-color:#FA8072;
+	margin: -120px 0 0 -50px;
+}
