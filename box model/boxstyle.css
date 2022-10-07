@@ -1,3 +1,4 @@
+body {background-color: yellow;}
 .box1 {
   background-color: #007FFF;
   width: 400px;
@@ -35,3 +36,5 @@ border-top-color: red;
 	background-color:#FA8072;
 	margin: -120px 0 0 -50px;
 }
+
+
