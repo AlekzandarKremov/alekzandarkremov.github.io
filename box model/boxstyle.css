@@ -1,26 +1,24 @@
-.box {
+.box1 {
   background-color: #007FFF;
   width: 400px;
-  border: solid 50px black;
+  border: solid 20px black;
   padding: 50px;
   box-sizing: border-box;
 }
 .box2 {
-  background-color: yellow;
-  width: 250px;
-  padding: 50px;
-  margin: 20px;
+  background-color: #007fff;
+box-sizing: border-box;
+padding: 20px 70px 50px 10px;
+padding-top: 20px;
+padding-right: 40px;
+padding-bottom: 100px;
+padding-left: 30px;
+margin: 40px;
+border:10px dashed black;
+border-top:20px solid black;
+border-top-width: 30px;
+border-top-color: red;
 }
-.box3 {
-  background-color: green;
-  width: 150px;
-  padding: 70px;
-  margin: 50px;
-}
-.box4 {
-  background-color: black;
-  width: 50px;
-  border: 5px;
-  padding: 100px;
-  margin: 70px;
+.h2 {
+	background-color: green;
 }
