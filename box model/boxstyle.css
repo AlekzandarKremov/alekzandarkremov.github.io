@@ -1,7 +1,26 @@
 .box {
-  background-color: blue;
-  width: 300px;
-  border: 10px solid red;
+  background-color: #007FFF;
+  width: 400px;
+  border: solid 50px black;
+  padding: 50px;
+  box-sizing: border-box;
+}
+.box2 {
+  background-color: yellow;
+  width: 250px;
   padding: 50px;
   margin: 20px;
+}
+.box3 {
+  background-color: green;
+  width: 150px;
+  padding: 70px;
+  margin: 50px;
+}
+.box4 {
+  background-color: black;
+  width: 50px;
+  border: 5px;
+  padding: 100px;
+  margin: 70px;
 }
