@@ -1,0 +1,11 @@
+.boxed {
+  border: 5px solid green ;
+  width: 900px;
+  background-color: lightblue;
+}
+
+.boxed2 {
+  border: 5px solid black ;
+  width: 50px;
+  background-color: blue;
+}
