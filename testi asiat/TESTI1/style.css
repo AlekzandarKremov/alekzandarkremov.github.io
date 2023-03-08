@@ -84,5 +84,5 @@ footer {
 @media screen and (min-width: 780px) {
 .teksti2 {
 font-size: 35px;
-}
+transition: 2s linear;
 }
