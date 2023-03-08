@@ -1,0 +1,88 @@
+nav {
+    background-color: #333;
+}
+
+body {
+    background-color: blue;
+    height: 10vh;
+}
+
+.content {
+    background-color: paleturquoise;
+    padding: 30px;
+    height: 85vh;
+    min-height: 100px;
+}
+
+
+nav span.title {
+    color: darkcyan;
+}
+
+nav span.version {
+    color: yellow;
+}
+
+.bred {
+    border: 1px solid yellowgreen;
+}
+
+span.version {
+    font-size: 9px;
+    display: block;
+    position: relative;
+    top: -8px;
+    left: 5px;
+}
+
+footer,
+span.title {
+    font-family: cursive;
+    font-size: 40px;
+}
+
+.banner {
+    background-color: blueviolet;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 150px;
+    padding-bottom: 30px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    background-color: lightgray;
+    width: 225px;
+    border: solid 2px black;
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.float-right {
+    float: right;
+}
+
+@media(max-width: 300px) {
+.float-right {
+    float: initial;
+    width: 100%;
+    height: auto;
+}
+}
+
+@media screen and (max-width: 320px) {
+.teksti {
+    font-size: 25px;
+}   
+}
+
+
+@media screen and (min-width: 780px) {
+.teksti2 {
+font-size: 50px;
+}
+}
