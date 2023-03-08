@@ -86,3 +86,10 @@ footer {
 font-size: 35px;
 transition: 2s linear;
 }
+
+@media(max-width: 400px) {
+    .float-right {
+    width: 100%;
+    }
+    }
+    
