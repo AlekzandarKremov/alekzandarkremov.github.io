@@ -1,0 +1,19 @@
+body {
+    background-color:cornflowerblue;
+}
+
+hr {
+    height: 2px;
+    background-color:black;
+    border: none;
+}
+
+span {
+    font-size: large;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    font-size: large;
+}
