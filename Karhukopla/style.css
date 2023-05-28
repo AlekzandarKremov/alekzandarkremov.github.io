@@ -1,0 +1,12 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    font-style: italic;
+}
+
+hr {
+    border: 5px dashed blue;
+    border-radius: 5px;
+}
