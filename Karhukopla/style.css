@@ -10,3 +10,7 @@ hr {
     border: 5px dashed blue;
     border-radius: 5px;
 }
+
+img {
+    border: 10px solid blueviolet;
+  }
