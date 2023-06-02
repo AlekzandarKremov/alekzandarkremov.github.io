@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+#layout {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#nav {
+    flex-basis: 100%;
+    border-bottom: 1px solid black;
+    padding: 20px;
+}
+
+#sidebar {
+    flex-basis: 20%;
+    border-right: 1px solid black;
+    padding: 20px;
+}
+
+#content {
+    flex-basis: 80%;
+    border: 1px solid red;
+    padding: 20px;
+}

@@ -41,8 +41,7 @@ img {
     margin: 50px auto;
     border-radius: 0;
 }
-
-@media (max-width: 100px) and (min-width: 700px){
+@media (max-width: 100px) and (min-width: 700px) {
     .box {
         border: 50%;
     }
