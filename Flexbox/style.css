@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+#layout {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#nav {
+    flex-basis: 100%;
+    border-bottom: 1px solid black;
+    padding: 20px;
+}
+
+#sidebar {
+    flex-basis: 20%;
+    border-right: 1px solid black;
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+
+#content {
+    flex-basis: 80%;
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+@media (max-width: 640px) {
+    #sidebar, #content {
+        flex-basis: 100%;
+        border-right: 0;
+    }
+}
+@media (max-width: 475px) {
+    #sidebar {
+        display: none;
+    }
+}
