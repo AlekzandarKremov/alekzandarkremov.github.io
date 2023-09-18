@@ -1,1 +1,0 @@
-alert("Tässä on minun TJK-jakson päiväkirja")
