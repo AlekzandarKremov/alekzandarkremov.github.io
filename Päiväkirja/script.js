@@ -1,0 +1,1 @@
+alert ("0 Työpäivää jäljellä!! Se tarkoittaa sitä että työharjoittelu on ohi jipiii")
