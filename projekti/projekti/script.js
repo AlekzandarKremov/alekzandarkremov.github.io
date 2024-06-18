@@ -1,1 +1,0 @@
-alert("Welcome To My Game Review Website, Below You Can Read The Description Of The Website")

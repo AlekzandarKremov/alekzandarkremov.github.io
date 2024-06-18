@@ -1,1 +1,0 @@
-alert("On This Page You Can See My Top 10 Games List")
